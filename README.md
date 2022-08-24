@@ -9,5 +9,5 @@ resources that can be shared with the QGIS Resources Sharing.
 ![Segmen Polyline](collections/segments/preview/segment_polyline.png)
 
 
-[**Segment Polygon QML Style**](https://github.com/thangqd/HCMGIS-Resources/blob/main/collections/segments/style/Segment%20Polygone.qml): automatically measure length, angle of each segment; perimeter and area of polygons 
+[**Segment Polygon QML Style**](https://github.com/thangqd/HCMGIS-Resources/blob/main/collections/segments/style/Segment%20Polygon.qml): automatically measure length, angle of each segment; perimeter and area of polygons 
 ![Segment Polygon](collections/segments/preview/segment_polygon.png)
