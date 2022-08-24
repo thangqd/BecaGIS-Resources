@@ -1,7 +1,7 @@
 # HCMGIS Resources Sharing
 
 This repository contains styles, scripts, models and other QGIS 
-resources that can be shared with the ![QGIS Resources Sharing] (https://qgis-contribution.github.io/QGIS-ResourceSharing/).
+resources that can be shared with the [QGIS Resources Sharing](https://qgis-contribution.github.io/QGIS-ResourceSharing/).
 
 ## Collections
 
