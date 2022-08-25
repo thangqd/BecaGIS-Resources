@@ -1,7 +1,7 @@
 <!DOCTYPE qgis_style>
 <qgis_style version="2">
   <symbols>
-    <symbol alpha="1" clip_to_extent="1" type="fill" force_rhr="0" frame_rate="10" is_animated="0" name="hcmc_district3_ward_border_polygon">
+    <symbol alpha="1" clip_to_extent="1" type="fill" force_rhr="0" frame_rate="10" is_animated="0" name="segment_measurements_polygon">
       <data_defined_properties>
         <Option type="Map">
           <Option value="" type="QString" name="name"/>
@@ -58,7 +58,7 @@
             <Option value="collection" type="QString" name="type"/>
           </Option>
         </data_defined_properties>
-        <symbol alpha="1" clip_to_extent="1" type="line" force_rhr="0" frame_rate="10" is_animated="0" name="@hcmc_district3_ward_border_polygon@1">
+        <symbol alpha="1" clip_to_extent="1" type="line" force_rhr="0" frame_rate="10" is_animated="0" name="@segment_measurements_polygon@1">
           <data_defined_properties>
             <Option type="Map">
               <Option value="" type="QString" name="name"/>
@@ -82,7 +82,7 @@
                 <Option value="collection" type="QString" name="type"/>
               </Option>
             </data_defined_properties>
-            <symbol alpha="1" clip_to_extent="1" type="line" force_rhr="0" frame_rate="10" is_animated="0" name="@@hcmc_district3_ward_border_polygon@1@0">
+            <symbol alpha="1" clip_to_extent="1" type="line" force_rhr="0" frame_rate="10" is_animated="0" name="@@segment_measurements_polygon@1@0">
               <data_defined_properties>
                 <Option type="Map">
                   <Option value="" type="QString" name="name"/>
@@ -197,7 +197,7 @@
                     <Option value="collection" type="QString" name="type"/>
                   </Option>
                 </data_defined_properties>
-                <symbol alpha="1" clip_to_extent="1" type="marker" force_rhr="0" frame_rate="10" is_animated="0" name="@@@hcmc_district3_ward_border_polygon@1@0@1">
+                <symbol alpha="1" clip_to_extent="1" type="marker" force_rhr="0" frame_rate="10" is_animated="0" name="@@@segment_measurements_polygon@1@0@1">
                   <data_defined_properties>
                     <Option type="Map">
                       <Option value="" type="QString" name="name"/>
@@ -302,7 +302,7 @@
                     <Option value="collection" type="QString" name="type"/>
                   </Option>
                 </data_defined_properties>
-                <symbol alpha="1" clip_to_extent="1" type="marker" force_rhr="0" frame_rate="10" is_animated="0" name="@@@hcmc_district3_ward_border_polygon@1@0@2">
+                <symbol alpha="1" clip_to_extent="1" type="marker" force_rhr="0" frame_rate="10" is_animated="0" name="@@@segment_measurements_polygon@1@0@2">
                   <data_defined_properties>
                     <Option type="Map">
                       <Option value="" type="QString" name="name"/>
@@ -413,7 +413,7 @@
                     <Option value="collection" type="QString" name="type"/>
                   </Option>
                 </data_defined_properties>
-                <symbol alpha="1" clip_to_extent="1" type="marker" force_rhr="0" frame_rate="10" is_animated="0" name="@@@hcmc_district3_ward_border_polygon@1@0@3">
+                <symbol alpha="1" clip_to_extent="1" type="marker" force_rhr="0" frame_rate="10" is_animated="0" name="@@@segment_measurements_polygon@1@0@3">
                   <data_defined_properties>
                     <Option type="Map">
                       <Option value="" type="QString" name="name"/>
@@ -534,7 +534,7 @@
                 <Option value="collection" type="QString" name="type"/>
               </Option>
             </data_defined_properties>
-            <symbol alpha="1" clip_to_extent="1" type="line" force_rhr="0" frame_rate="10" is_animated="0" name="@@hcmc_district3_ward_border_polygon@1@1">
+            <symbol alpha="1" clip_to_extent="1" type="line" force_rhr="0" frame_rate="10" is_animated="0" name="@@segment_measurements_polygon@1@1">
               <data_defined_properties>
                 <Option type="Map">
                   <Option value="" type="QString" name="name"/>
@@ -659,7 +659,7 @@
                 <Option value="collection" type="QString" name="type"/>
               </Option>
             </data_defined_properties>
-            <symbol alpha="1" clip_to_extent="1" type="line" force_rhr="0" frame_rate="10" is_animated="0" name="@@hcmc_district3_ward_border_polygon@1@2">
+            <symbol alpha="1" clip_to_extent="1" type="line" force_rhr="0" frame_rate="10" is_animated="0" name="@@segment_measurements_polygon@1@2">
               <data_defined_properties>
                 <Option type="Map">
                   <Option value="" type="QString" name="name"/>
@@ -754,7 +754,7 @@
             <Option value="collection" type="QString" name="type"/>
           </Option>
         </data_defined_properties>
-        <symbol alpha="1" clip_to_extent="1" type="marker" force_rhr="0" frame_rate="10" is_animated="0" name="@hcmc_district3_ward_border_polygon@2">
+        <symbol alpha="1" clip_to_extent="1" type="marker" force_rhr="0" frame_rate="10" is_animated="0" name="@segment_measurements_polygon@2">
           <data_defined_properties>
             <Option type="Map">
               <Option value="" type="QString" name="name"/>
@@ -912,7 +912,7 @@
             <Option value="collection" type="QString" name="type"/>
           </Option>
         </data_defined_properties>
-        <symbol alpha="1" clip_to_extent="1" type="marker" force_rhr="0" frame_rate="10" is_animated="0" name="@hcmc_district3_ward_border_polygon@3">
+        <symbol alpha="1" clip_to_extent="1" type="marker" force_rhr="0" frame_rate="10" is_animated="0" name="@segment_measurements_polygon@3">
           <data_defined_properties>
             <Option type="Map">
               <Option value="" type="QString" name="name"/>
@@ -987,7 +987,7 @@
             <Option value="collection" type="QString" name="type"/>
           </Option>
         </data_defined_properties>
-        <symbol alpha="1" clip_to_extent="1" type="line" force_rhr="0" frame_rate="10" is_animated="0" name="@hcmc_district3_ward_border_polygon@4">
+        <symbol alpha="1" clip_to_extent="1" type="line" force_rhr="0" frame_rate="10" is_animated="0" name="@segment_measurements_polygon@4">
           <data_defined_properties>
             <Option type="Map">
               <Option value="" type="QString" name="name"/>
@@ -1078,7 +1078,7 @@
             <Option value="collection" type="QString" name="type"/>
           </Option>
         </data_defined_properties>
-        <symbol alpha="1" clip_to_extent="1" type="marker" force_rhr="0" frame_rate="10" is_animated="0" name="@hcmc_district3_ward_border_polygon@5">
+        <symbol alpha="1" clip_to_extent="1" type="marker" force_rhr="0" frame_rate="10" is_animated="0" name="@segment_measurements_polygon@5">
           <data_defined_properties>
             <Option type="Map">
               <Option value="" type="QString" name="name"/>
@@ -1157,7 +1157,7 @@
             <Option value="collection" type="QString" name="type"/>
           </Option>
         </data_defined_properties>
-        <symbol alpha="1" clip_to_extent="1" type="line" force_rhr="0" frame_rate="10" is_animated="0" name="@hcmc_district3_ward_border_polygon@6">
+        <symbol alpha="1" clip_to_extent="1" type="line" force_rhr="0" frame_rate="10" is_animated="0" name="@segment_measurements_polygon@6">
           <data_defined_properties>
             <Option type="Map">
               <Option value="" type="QString" name="name"/>
@@ -1181,7 +1181,7 @@
                 <Option value="collection" type="QString" name="type"/>
               </Option>
             </data_defined_properties>
-            <symbol alpha="1" clip_to_extent="1" type="line" force_rhr="0" frame_rate="10" is_animated="0" name="@@hcmc_district3_ward_border_polygon@6@0">
+            <symbol alpha="1" clip_to_extent="1" type="line" force_rhr="0" frame_rate="10" is_animated="0" name="@@segment_measurements_polygon@6@0">
               <data_defined_properties>
                 <Option type="Map">
                   <Option value="" type="QString" name="name"/>
