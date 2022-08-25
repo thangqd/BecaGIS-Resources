@@ -5,9 +5,9 @@ resources that can be shared with the [QGIS Resources Sharing](https://qgis-cont
 
 ## Collections
 
-[**Segment Polyline QML Style**](https://github.com/thangqd/HCMGIS-Resources/blob/main/collections/segments/style/Segment%20Polyline.qml): automatically measure length, angle of each segment and total length of polylines 
+[**Segment Polyline Style**](https://github.com/thangqd/HCMGIS-Resources/blob/main/collections/segments/style/Segment%20Polyline.qml): automatically measure length of each segment, angle of each vertice, and total length and direction of polylines 
 ![Segmen Polyline](collections/segments/preview/segment_polyline.png)
 
 
-[**Segment Polygon QML Style**](https://github.com/thangqd/HCMGIS-Resources/blob/main/collections/segments/style/Segment%20Polygon.qml): automatically measure length, angle of each segment; perimeter and area of polygons 
+[**Segment Polygon Style**](https://github.com/thangqd/HCMGIS-Resources/blob/main/collections/segments/style/Segment%20Polygon.qml): automatically measure length of each segment, internal angles; perimeter and area of polygons.
 ![Segment Polygon](collections/segments/preview/segment_polygon.png)
