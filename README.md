@@ -19,6 +19,6 @@ resources that can be shared with the [QGIS Resources Sharing](https://qgis-cont
 
 ### BecaGIS Icons
 
-[**BecaGIS Icons**](https://github.com/thangqd/BecaGIS-Resources/tree/main/collections/becagis_icon/svg): BecaGIS SVG icons
+[**BecaGIS Icons**](https://github.com/thangqd/BecaGIS-Resources/tree/main/collections/becagis_icons/svg): BecaGIS SVG icons
 
-![BecaGIS Icons](collections/becagis_icon/preview/becagis_icon.png)
+![BecaGIS Icons](collections/becagis_icons/preview/becagis_icons.png)
