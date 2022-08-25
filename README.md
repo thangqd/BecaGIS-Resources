@@ -1,18 +1,24 @@
 # BecaGIS Resources Sharing
 
-This repository contains styles, scripts, models and other QGIS 
+BecaGIS Resources Sharing contains styles, scripts, models and other QGIS 
 resources that can be shared with the [QGIS Resources Sharing](https://qgis-contribution.github.io/QGIS-ResourceSharing/).
 
 ## Collections
 
 
-### Segment Measurements
+### Segment Measure
 
-[**Segment Measurements Polyline**](https://github.com/thangqd/BecaGIS-Resources/blob/main/collections/segment_measurements/style/segment_measurements_polyline.qml): automatically measure length of each segment, angle of each vertice, and total length and direction of polylines.
+[**Segment Measure Polyline**](https://github.com/thangqd/BecaGIS-Resources/blob/main/collections/segment_measure/style/segment_measure_polyline.qml): automatically measure length of each segment, angle of each vertice, and total length and direction of polylines.
 
-![Segment Measurements Polyline](collections/segment_measurements/preview/segment_measurements_polyline.png)
+![Segment Measure Polyline](collections/segment_measure/preview/segment_measure_polyline.png)
 
 
-[**Segment Measurements Polygon**](https://github.com/thangqd/BecaGIS-Resources/blob/main/collections/segment_measurements/style/segment_measurements_polygon.qml): automatically measure length of each segment, internal angles; perimeter and area of polygons.
+[**Segment Measure Polygon**](https://github.com/thangqd/BecaGIS-Resources/blob/main/collections/segment_measure/style/segment_measure_polygon.qml): automatically measure length of each segment, internal angles; perimeter and area of polygons.
 
-![Segment Measurements Polygon](collections/segment_measurements/preview/segment_measurements_polygon.png)
+![Segment Measure Polygon](collections/segment_measure/preview/segment_measure_polygon.png)
+
+### BecaGIS Icons
+
+[**BecaGIS Icons**](https://github.com/thangqd/BecaGIS-Resources/tree/main/collections/becagis_icon/svg): BecaGIS SVG icons
+
+![BecaGIS Icons](collections/becagis_icon/preview/becagis_icon.png)
